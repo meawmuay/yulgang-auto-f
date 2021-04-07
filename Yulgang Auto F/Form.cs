@@ -170,10 +170,11 @@ namespace Yulgang_Auto_F
             {
                 Console.WriteLine(@"Bot 1 Tick");
                 SetForegroundWindow(_handleWindow);
+                Thread.Sleep(20);
                 var f = ((ComboboxItemF) comboBoxButton1.SelectedItem).Value;
                 Keyboard.SendKey(0x9D, false);
                 Keyboard.SendKey(f, false);
-                Thread.Sleep(1);
+                Thread.Sleep(20);
                 Keyboard.SendKey(f, true);
                 Keyboard.SendKey(0x9D, true);
             }
@@ -192,10 +193,11 @@ namespace Yulgang_Auto_F
             {
                 Console.WriteLine(@"Bot 2 Tick");
                 SetForegroundWindow(_handleWindow);
+                Thread.Sleep(20);
                 var f = ((ComboboxItemF) comboBoxButton2.SelectedItem).Value;
                 Keyboard.SendKey(0x9D, false);
                 Keyboard.SendKey(f, false);
-                Thread.Sleep(1);
+                Thread.Sleep(20);
                 Keyboard.SendKey(f, true);
                 Keyboard.SendKey(0x9D, true);
             }
