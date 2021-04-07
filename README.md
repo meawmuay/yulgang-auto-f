@@ -16,7 +16,7 @@
 [Yulgang Auto F Version 1.0.0.0](https://github.com/meawmuay/yulgang-auto-f/releases/download/v1.0.0.0/Yulgang.Auto.F.1.0.0.0.rar "Yulgang Auto F Latest Version")
 
 ### ติดตั้ง
-ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 4.0.0 หรือมากกว่า ดาวน์โหลดได้จากลิงค์ด้านล่าง
+ตัวโปรแกรมไม่มีความจำเป็นต้องติด แต่หากคุณยังไม่ได้ลง .NET Framework เวอร์ชั่น 4.5.0 หรือมากกว่า ดาวน์โหลดได้จากลิงค์ด้านล่าง
 
 [Microsoft .NET Framework 4.6.1 (Web Installer)](https://www.microsoft.com/en-us/download/details.aspx?id=49981 "Microsoft .NET Framework 4.6.1 (Web Installer)")
 
